@@ -1,0 +1,69 @@
+%PDF-1.4
+% Aleem - AI/ML Engineer Resume Placeholder
+1 0 obj
+<< /Title (Aleem - AI/ML Engineer Resume)
+   /Author (Aleem)
+   /Creator (Aleem Portfolio)
+>>
+endobj
+2 0 obj
+<< /Type /Catalog
+   /Pages 3 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages
+   /Kids [4 0 R]
+   /Count 1
+>>
+endobj
+4 0 obj
+<< /Type /Page
+   /Parent 3 0 R
+   /MediaBox [0 0 612 792]
+   /Contents 5 0 R
+   /Resources << /Font << /F1 6 0 R >> >>
+>>
+endobj
+5 0 obj
+<< /Length 285 >>
+stream
+BT
+/F1 20 Tf
+50 720 Td
+(Aleem - AI/ML Engineer) Tj
+/F1 12 Tf
+0 -30 Td
+(Email: aleemmehar422@gmail.com) Tj
+0 -20 Td
+(Focus: Machine Learning, Generative AI, RAG, Agents, Computer Vision) Tj
+0 -30 Td
+(Flagship Projects: Kisaan Market AI, NEXUS AI, Air Quality Forecasting) Tj
+0 -20 Td
+(For complete formatted resume, visit portfolio or view online.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Font
+   /Subtype /Type1
+   /BaseFont /Helvetica
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000060 00000 n 
+0000000155 00000 n 
+0000000212 00000 n 
+0000000275 00000 n 
+0000000403 00000 n 
+0000000739 00000 n 
+trailer
+<< /Size 7
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+startxref
+818
+%%EOF
